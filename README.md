@@ -53,7 +53,7 @@ Built on three MITRE ATT&CK use cases from the SIEM home lab:
 
 ## Pipeline Output
 
-Each alert goes through three phases and produces a prioritized disposition:
+Each alert goes through three phases and produces a prioritised disposition:
 
 ### Phase 2 — AI Triage Report (sample)
 
